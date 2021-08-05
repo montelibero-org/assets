@@ -1,3 +1,29 @@
 # Montelibero Stellar Anchor <https://montelibero.org>
 # https://github.com/stellar/stellar-protocol/tree/master/ecosystem
 
+ACCOUNTS=[
+"GDI4PH6R2B4JDTMONRJA3BV4L3IBMXHWFCQPP5VTDSD3EE2ZFZGQJZZO",
+"GCPOWDQQDVSAQGJXZW3EWPPJ5JCF4KTTHBYNB4U54AKQVDLZXLLYMXY7"
+]
+
+[DOCUMENTATION]
+ORG_NAME="EHIN"
+ORG_DBA="EHIN"
+ORG_URL="https://assets.montelibero.org"
+ORG_LOGO="https://assets.montelibero.org/images/logo_eh.png"
+ORG_DESCRIPTION="EHIN - personal issuer - a practicing political scientist born in 1988 from Barnaul."
+ORG_GITHUB="ehin"
+ORG_OFFICIAL_EMAIL="antonehin@gmail.com"
+ORG_SUPPORT_EMAIL="antonehin@gmail.com"
+
+[[CURRENCIES]]
+code="EHIN"
+issuer="GDI4PH6R2B4JDTMONRJA3BV4L3IBMXHWFCQPP5VTDSD3EE2ZFZGQJZZO"
+status="live"
+display_decimals=2
+anchor_asset_type="other"
+anchor_asset="EUR"
+is_asset_anchored=true
+name="EHIN"
+desc="EHIN - a personal token fixes the issuer's obligations to provide their service provider within 1 hour of working time for 1 token in the field of his professional competencies and capabilities."
+image="https://assets.montelibero.org/images/logo_eh.png"
