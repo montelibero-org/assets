@@ -45,5 +45,5 @@ display_decimals=2
 anchor_asset_type="other"
 is_asset_anchored=false
 name="GPA"
-desc="GPA is a token of the same name company, which guarantees its owner monthly payments in EURMTL in the amount of 2% of the invested amount due to trading operations."
+desc="GPA is a token of the same name company, which guarantees its owner monthly payments in EURMTL in the amount of 2% of the invested amount (at least 100 tokens) due to trading operations."
 image="https://assets.montelibero.org/images/logo/GPA-GBGGX7QD3JCPFKOJTLBRAFU3SIME3WSNDXETWI63EDCORLBB6HIP2CRR.png"
