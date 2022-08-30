@@ -60,12 +60,12 @@ desc="GPACAR is a token that fixes the obligations of the issuer in the field of
 image="https://assets.montelibero.org/images/logo/GPACAR-GBGGX7QD3JCPFKOJTLBRAFU3SIME3WSNDXETWI63EDCORLBB6HIP2CRR.png"
 
 [[CURRENCIES]]
-code="MrxpInves"
+code="MrxpInvest"
 issuer="GDAJVYFMWNIKYM42M6NG3BLNYXC3GE3WMEZJWTSYH64JLZGWVJPTGGB7"
 status="live"
 display_decimals=2
 anchor_asset_type="other"
 is_asset_anchored=false
-name="MrxpInves"
-desc="MrxpInves quantitatively growing token with a fixed rate of 1 to 1 with EURMTL, fixing the obligations of the issuer in the field of work with a deposit in crypto trading and the obligation of the issuer within a month to return to the depositor the amount of funds requested for return with a proportional adjustment to MrxpCorrect on the distribution balance (where 100% of paper profit in token MrxpInves = 100% of the trader's real deposit, displayed in MrxpCorrect, through which commissions and drawdowns on the deposit are displayed on weekly terms)."
+name="MrxpInvest"
+desc="MrxpInvest quantitatively growing token with a fixed rate of 1 to 1 with EURMTL, fixing the obligations of the issuer in the field of work with a deposit in crypto trading and the obligation of the issuer within a month to return to the depositor the amount of funds requested for return with a proportional adjustment to MrxpCorrect on the distribution balance (where 100% of paper profit in token MrxpInves = 100% of the trader's real deposit, displayed in MrxpCorrect, through which commissions and drawdowns on the deposit are displayed on weekly terms)."
 image="https://assets.montelibero.org/images/logo/MrxpInves-GDAJVYFMWNIKYM42M6NG3BLNYXC3GE3WMEZJWTSYH64JLZGWVJPTGGB7.png"
