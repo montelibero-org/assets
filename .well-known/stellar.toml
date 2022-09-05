@@ -78,5 +78,5 @@ display_decimals=7
 anchor_asset_type="other"
 is_asset_anchored=false
 name="SwapCoin"
-desc="SwapCoin a currency exchange bond fixing the issuer's weekly obligations to pay its owner in EURMTL an amount corresponding to inflation in Montenegro + 4% per annum."
+desc="SwapCoin a currency exchange bond which confirms the weekly obligation of the issuer to pay its holder the amount corresponding to inflation in Montenegro + 4% per annum  in EURMTL."
 image="https://assets.montelibero.org/images/logo/SwapCoin-GCFSC5DDR4XGWFAOIWMGBXBY3BA7PTW4TGZ3RPFLCDFK67GCXWPUD2JS.png"
