@@ -69,3 +69,14 @@ is_asset_anchored=false
 name="MrxpInvest"
 desc="MrxpInvest quantitatively growing token with a fixed rate of 1 to 1 with EURMTL, fixing the obligations of the issuer in the field of work with a deposit in crypto trading and the obligation of the issuer within a month to return to the depositor the amount of funds requested for return with a proportional adjustment to MrxpCorrect on the distribution balance (where 100% of paper profit in token MrxpInves = 100% of the trader's real deposit, displayed in MrxpCorrect, through which commissions and drawdowns on the deposit are displayed on weekly terms)."
 image="https://assets.montelibero.org/images/logo/MrxpInves-GDAJVYFMWNIKYM42M6NG3BLNYXC3GE3WMEZJWTSYH64JLZGWVJPTGGB7.png"
+
+[[CURRENCIES]]
+code="SwapCoin"
+issuer="GCFSC5DDR4XGWFAOIWMGBXBY3BA7PTW4TGZ3RPFLCDFK67GCXWPUD2JS"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_asset_anchored=false
+name="SwapCoin"
+desc="SwapCoin a currency exchange bond fixing the issuer's weekly obligations to pay its owner in EURMTL an amount corresponding to inflation in Montenegro + 4% per annum."
+image="https://assets.montelibero.org/images/logo/SwapCoin-GCFSC5DDR4XGWFAOIWMGBXBY3BA7PTW4TGZ3RPFLCDFK67GCXWPUD2JS.png"
