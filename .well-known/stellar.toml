@@ -92,3 +92,10 @@ name="MTL Deja"
 desc="crypto-shares guaranteeing equity participation in the ownership and management of all assets of the land plots 691, 692 and 694/2 in the district of Pečurice, Bar, Montenegro."
 image="https://assets.montelibero.org/images/logo/MTLDeja-small-logo.png"
 
+[[CURRENCIES]]
+code="Timoney"
+issuer="GBPJJYVFIYSSRWYZBNHL7EIRBOXEX5JQHJALD2EVOQFZO2ESQGJPFPZW"
+status="live"
+is_asset_anchored=false
+name="Timoney"
+desc="Sergey Bolshakov's personal token. See offer at https://monte.wiki/ru/Timoney"
