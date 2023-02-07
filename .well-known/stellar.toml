@@ -103,3 +103,13 @@ is_asset_anchored=true
 name="Timoney"
 desc="Sergey Bolshakov's personal token. See offer at https://monte.wiki/ru/Timoney"
 image="https://assets.montelibero.org/images/logo/Timoney.png"
+
+[[CURRENCIES]]
+code="POUTRU"
+issuer="GAS36NRWO35YEZGJTUXHRD7JLZQJGL5LPBSUSBVN6MTK4YG4777W5Q7K"
+status="live"
+display_decimals=0
+is_asset_anchored=false
+name="POUTRU"
+desc="POUTRU - a personal token fixes the issuer's obligations to provide their service provider within 1 hour of working time for 1 token in the field of his professional competencies and capabilities: system analysis, preparation of IT documentation, cryptocurrency consulting, business consulting. You can find me in Telegram @poutru"
+image="https://assets.montelibero.org/images/logo/POUTRU.png"
