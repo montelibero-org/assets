@@ -120,5 +120,5 @@ issuer="GAW5DLFZK3S3IHZWGAMKNTWBHIMPZMI3EHQF7GMSPK2JAPBGEN2JU7BP"
 status="live"
 anchor_asset_type="other"
 is_asset_anchored=false
-name="EUR debt Lainelle"
+name="EDL"
 desc="EDL - a personal token fixes the issuer's obligations to provide 1 EURMTL for 1 EDL. You can find me in Telegram @lainelle"
