@@ -122,3 +122,10 @@ anchor_asset_type="other"
 is_asset_anchored=false
 name="EDL"
 desc="EDL - a personal token fixes the issuer's obligations to provide 1 EURMTL for 1 EDL. You can find me in Telegram @lainelle"
+
+[[CURRENCIES]]
+code="MTLFEST"
+issuer="GCGWAPG6PKBMHEEAHRLTWHFCAGZTQZDOXDMWBUBCXHLQBSBNWFRYFEST"
+status="live"
+name="Montelibero Festival"
+desc="Symbolic token for Montelibero Festival"
