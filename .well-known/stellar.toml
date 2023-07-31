@@ -62,6 +62,17 @@ desc="GPACAR is a token that fixes the obligations of the issuer in the field of
 image="https://assets.montelibero.org/images/logo/GPACAR-GBGGX7QD3JCPFKOJTLBRAFU3SIME3WSNDXETWI63EDCORLBB6HIP2CRR.png"
 
 [[CURRENCIES]]
+code="Agora"
+issuer="GBGGX7QD3JCPFKOJTLBRAFU3SIME3WSNDXETWI63EDCORLBB6HIP2CRR"
+status="live"
+display_decimals=7
+is_unlimited=true
+name="GPA Agora"
+desc="Agora token issued to raise funds for the development of a catering enterprise and fixed the issuer's obligation to make payments at the rate of 24% per annum"
+conditions="The issuer guarantees token holders their 1:1 reverse exchange to EURMTL in the amount from a thousand tokens no later than the fourth month from the moment of the request. Full offer see  https://monte.wiki/ru/Agora"
+image="https://mtl.montelibero.org/images/agora-logo.png"
+
+[[CURRENCIES]]
 code="MrxpInvest"
 issuer="GDAJVYFMWNIKYM42M6NG3BLNYXC3GE3WMEZJWTSYH64JLZGWVJPTGGB7"
 status="live"
