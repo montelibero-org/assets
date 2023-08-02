@@ -70,7 +70,7 @@ is_unlimited=true
 name="GPA Agora"
 desc="Agora token issued to raise funds for the development of a catering enterprise and fixed the issuer's obligation to make payments at the rate of 24% per annum"
 conditions="The issuer guarantees token holders their 1:1 reverse exchange to EURMTL in the amount from a thousand tokens no later than the fourth month from the moment of the request. Full offer see  https://monte.wiki/ru/Agora"
-image="https://mtl.montelibero.org/images/agora-logo-300.png"
+image="https://assets.montelibero.org/images/logo/agora-logo-300.png"
 
 [[CURRENCIES]]
 code="MrxpInvest"
