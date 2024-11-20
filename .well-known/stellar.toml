@@ -36,7 +36,7 @@ display_decimals=0
 anchor_asset_type="other"
 is_asset_anchored=false
 name="Niro Korb"
-desc="A personal token fixes Victor Korb's readiness to provide services to its bearer within the limits of his professional competencies and capabilities at the rate of 1 hour for 1 token, and if refused for any reason, the obligation to redeem the token at a fixed price of 5 EURMTL."
+desc="A personal token fixes Victor Korb's readiness to provide services to its bearer within the limits of his professional competencies and capabilities at the rate of 1 hour for 1 token, and if refused for any reason, the obligation to redeem the token at a fixed price of 15 EURMTL."
 image="https://assets.montelibero.org/images/logo/NIRO-GCOP3XDXTEHWPRXT3NSPPPR3RCHLLK6CUZI3S6RUWGEAKDD73IEU5H3E.png"
 
 [[CURRENCIES]]
